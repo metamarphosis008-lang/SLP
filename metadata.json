@@ -1,0 +1,6 @@
+{
+  "name": "Manfred Operator Console",
+  "description": "Operator console for Manfred, the built-in ClawBank assistant, and the Soloplanet financial operations agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
